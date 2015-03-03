@@ -27,11 +27,11 @@
     </property>
     <property>
         <name>dfs.namenode.name.dir</name>
-        <value>file:///home/haifwu/hadoop-2.5.0/dfs/name</value>
+        <value>file:/home/haifwu/hadoop-2.5.0/dfs/name</value>
     </property>
     <property>
         <name>dfs.datanode.data.dir</name>
-        <value>file:///home/haifwu/hadoop-2.5.0/dfs/data</value>
+        <value>file:/home/haifwu/hadoop-2.5.0/dfs/data</value>
     </property>
     <property>
         <name>dfs.replication</name>
